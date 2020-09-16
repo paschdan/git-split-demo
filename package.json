@@ -1,0 +1,23 @@
+{
+  "name": "git-split-demo",
+  "version": "1.0.0",
+  "description": "A demo to show how to split a commit in multiple when npm is involved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paschdan/git-split-demo.git"
+  },
+  "keywords": [
+    "git",
+    "npm"
+  ],
+  "author": "Daniel Paschke <paschdan@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/paschdan/git-split-demo/issues"
+  },
+  "homepage": "https://github.com/paschdan/git-split-demo#readme"
+}
